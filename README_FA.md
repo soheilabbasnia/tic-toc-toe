@@ -2,10 +2,10 @@
 
 # بازی دوز تحت خط فرمان با هوش مصنوعی (Tic-Tac-Toe CLI)
 
-[![License: MIT](https://img.shields.io/badge/لایسنس-MIT-blue.svg)](LICENSE)
-[![Python: 3.x](https://img.shields.io/badge/پایتون-3.x-3776AB.svg?logo=python&logoColor=white)](https://python.org)
-[![Interface: CLI](https://img.shields.io/badge/رابط_کاربری-ترمینال%20%7C%20خط_فرمان-black.svg)](#)
-[![AI Opponent](https://img.shields.io/badge/هوش_مصنوعی-حریف_هوشمند_دفاعی-success.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python: 3.x](https://img.shields.io/badge/Python-3.x-3776AB.svg?logo=python&logoColor=white)](https://python.org)
+[![Interface: CLI](https://img.shields.io/badge/Interface-CLI%20%2F%20Terminal-black.svg)](#)
+[![AI Opponent](https://img.shields.io/badge/AI-Rule--Based%20Heuristic-success.svg)](#)
 
 [English](README.md) | فارسی
 
@@ -91,11 +91,12 @@ tic-toc-toe/
 ## مشارکت
 
 پیشنهادات توسعه، پیاده‌سازی الگوریتم Minimax و اضافه کردن قابلیت بازی دو نفره به شدت مورد استقبال است!
-۱. مخزن را فورک کنید.
-۲. یک برنچ جدید بسازید (`git checkout -b feature/minimax-ai`).
-3. تغییرات خود را کامیت کنید (`git commit -m 'Implement unbeatable Minimax AI'`).
-۴. تغییرات را به برنچ خود پوش نمایید (`git push origin feature/minimax-ai`).
-۵. یک پول ریکوئست (Pull Request) ارسال نمایید.
+
+1. مخزن را فورک کنید.<br>
+2. یک شاخه جدید بسازید (`git checkout -b feature/minimax-ai`).<br>
+3. تغییرات خود را کامیت کنید (`git commit -m "Add new feature"`).<br>
+4. تغییرات را به شاخه خود پوش نمایید (`git push origin feature/minimax-ai`).<br>
+5. یک Pull Request باز کنید.
 
 ---
 
