@@ -11,7 +11,7 @@ A classic **Tic-Tac-Toe** (دوز) game designed for the command-line interface,
 
 ---
 
-## 🌟 Overview
+## Overview
 
 Tic-Tac-Toe is a timeless zero-sum strategy game played on a 3x3 grid. While trivial for humans, building a competent terminal opponent requires algorithmic decision-making.
 
@@ -22,7 +22,7 @@ This Python implementation equips the computer opponent with a layered heuristic
 
 ---
 
-## ✨ Features
+## Features
 
 - **Heuristic AI Engine**: Smart look-ahead and defensive move counteraction.
 - **Rich Terminal Styling**: Color-coded markers using `termcolor` (Red for Player `[X]`, Blue for Computer `[O]`, Green for victory, Yellow for defeat).
@@ -31,7 +31,7 @@ This Python implementation equips the computer opponent with a layered heuristic
 
 ---
 
-## 🎮 How to Play
+## How to Play
 
 The board tiles are numbered **1** through **9**:
 
@@ -48,7 +48,7 @@ The board tiles are numbered **1** through **9**:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -75,7 +75,7 @@ The board tiles are numbered **1** through **9**:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 tic-toc-toe/
@@ -86,7 +86,7 @@ tic-toc-toe/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, Minimax algorithm implementations, and multiplayer mode additions are welcome!
 1. Fork the repository.
@@ -97,7 +97,8 @@ Contributions, Minimax algorithm implementations, and multiplayer mode additions
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 Free and open-source for personal and educational use.
+
